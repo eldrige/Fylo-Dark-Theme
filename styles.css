@@ -111,11 +111,11 @@ p{
 .testimonials{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     
 }
 .card{
-    width: 400px;
+    width: 32%;
     height: 200px;
     opacity: 1;
     background-color: hsl(217, 28%, 15%);
